@@ -1,0 +1,25 @@
+.fondo1{
+    background: lightcoral;
+
+}
+.fondo2{
+    background: lightgray;
+
+}
+.fondo3{
+    background: lightgreen;
+
+}
+.fondo4{
+    background: lightblue;
+
+}
+.fondo5{
+    background: lightpink;
+
+}
+
+.marco{
+    border: 1px solid blue;
+    height: 1cm;
+}
